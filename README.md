@@ -13,10 +13,9 @@
 ```bash
 cd backend
 npm install
-npm start
+node server.js
 
-### Frontend
-```bash
+Frontend
 cd frontend
 npm install
-npm run dev
+npm run serve
